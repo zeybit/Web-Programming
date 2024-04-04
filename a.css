@@ -1,0 +1,40 @@
+header{
+background-color:beige ;
+
+}
+
+
+ img{
+width: 360px; 
+height:360px;
+float: left;
+ }
+
+
+div{
+width: auto;
+height: auto;
+margin: 50px;
+float: left;
+
+background-color: #f0ffff;
+}
+
+h2{
+color:#cc00ff;
+
+}
+ 
+p{
+    text-align: left;
+   
+}
+footer{
+    background-color: black;
+  color: white;
+}
+h4{
+color:#009999;
+font-family: "Times New Roman", Times, serif;
+   text-align:center;
+}
